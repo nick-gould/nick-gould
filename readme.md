@@ -36,11 +36,5 @@ Code for solving the [Peng-Robinson Equation of State](https://en.wikipedia.org/
 
 ---
 
-### 🔹 Orphaned Projects
-There are a lot of these, and you'll never see most of them.
-
-
----
-
 ## 📫 Reach out on LinkedIn
 - [LinkedIn](https://www.linkedin.com/in/nick-gould/)
